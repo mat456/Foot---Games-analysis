@@ -1,0 +1,12 @@
+,minute,player_name,team,xG,psXg,type_2
+0,7,Álvaro Morata,Spain,0.05,0.19,Saved
+1,15,Lamine Yamal,Spain,0.08,,Off Target
+2,29,Álvaro Morata,Spain,0.40,0.87,Goal
+3,32,Fabián Ruiz Peña,Spain,0.14,0.14,Goal
+4,36,Robin Le Normand,Spain,0.15,,Off Target
+5,45,Dani Carvajal,Spain,0.50,0.65,Goal
+6,52,Lamine Yamal,Spain,0.32,0.84,Saved
+7,54,Álvaro Morata,Spain,0.24,,Off Target
+8,58,Lamine Yamal,Spain,0.07,,Blocked
+9,74,Dani Olmo,Spain,0.02,,Blocked
+10,88,Ferrán Torres,Spain,0.05,,Blocked

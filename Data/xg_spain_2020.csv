@@ -1,0 +1,17 @@
+,minute,player_name,team,xG,psXg,type_2
+0,9,César Azpilicueta,Spain,0.04,0.04,Saved
+1,13,Pablo Sarabia,Spain,0.05,,Off Target
+2,16,Koke,Spain,0.42,0.44,Saved
+3,19,Álvaro Morata,Spain,0.51,,Off Target
+4,27,Pablo Sarabia,Spain,0.04,,Off Target
+5,37,José Luis Gayà,Spain,0.02,,Off Target
+6,38,José Luis Gayà,Spain,0.05,,Blocked
+7,38,José Luis Gayà,Spain,0.06,0.02,Saved
+8,38,Pablo Sarabia,Spain,0.38,0.38,Goal
+9,43,Koke,Spain,0.02,,Off Target
+10,45,Álvaro Morata,Spain,0.04,,Off Target
+11,57,César Azpilicueta,Spain,0.53,0.67,Goal
+12,77,Ferrán Torres,Spain,0.36,0.39,Goal
+13,84,Dani Olmo,Spain,0.04,0.09,Saved
+14,90,Dani Olmo,Spain,0.05,,Off Target
+15,90,Mikel Oyarzabal,Spain,0.03,,Off Target
